@@ -1,0 +1,52 @@
+[
+    {
+        "title": "book 3",
+        "author": "author 3",
+        "isbn": 50059,
+        "year": 2024,
+        "price": 800,
+        "quantity": 12,
+        "bookAddedAt": "13-12-2024 16:54:19",
+        "bookLastUpdatedAt": ""
+    },
+    {
+        "title": "book 4",
+        "author": "author 4",
+        "isbn": 46344,
+        "year": 4567,
+        "price": 567,
+        "quantity": 45,
+        "bookAddedAt": "13-12-2024 16:58:40",
+        "bookLastUpdatedAt": ""
+    },
+    {
+        "title": "book 6",
+        "author": "author 6",
+        "isbn": 92084,
+        "year": 2345,
+        "price": 345,
+        "quantity": 455,
+        "bookAddedAt": "13-12-2024 17:06:12",
+        "bookLastUpdatedAt": ""
+    },
+    {
+        "title": "hjdne",
+        "author": "njknk",
+        "isbn": 38937,
+        "year": 3456,
+        "price": 345,
+        "quantity": 455,
+        "bookAddedAt": "13-12-2024 17:06:36",
+        "bookLastUpdatedAt": ""
+    },
+    {
+        "title": "jfjf",
+        "author": "jjfg",
+        "isbn": 25503,
+        "year": 5678,
+        "price": 67,
+        "quantity": 67,
+        "bookAddedAt": "13-12-2024 17:10:02",
+        "bookLastUpdatedAt": "13-12-2024 17:10:49"
+    }
+]
